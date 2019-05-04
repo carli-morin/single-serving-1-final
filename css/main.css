@@ -1,0 +1,46 @@
+.container-fluid {
+  background-color: #ccc;
+}
+#col-1 {
+  background-color: #fcc;
+}
+#col-2 {
+  background-color: #AB7B71;
+}
+#col-3 {
+  background-color: #8e6039;
+}
+#col-4 {
+  background-color: #fcc;
+}
+#header {
+  background-color:#AB7B71;
+}
+/****
+h1 {
+  font-family: "Source Code Pro", monospace;
+  font-weight:
+}
+**Placeholder.com for images ****/
+/** illustrator file saved as SGV**/
+h1 {
+  font-family:serif;
+  color: black;
+}
+a:hover {
+  color:#fcc;
+}
+a:active {
+  color: #fcc;
+}
+p {
+  font-family: serif;
+}
+ul {
+  font-family: serif;
+}
+img {
+  padding: inherit;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
